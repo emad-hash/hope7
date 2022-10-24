@@ -1,66 +1,60 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Hands Of Hope
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+HandsOfHope is a web applications for charity services, we specialized in medical sector in order to give needy people a hand of hope for all their medical problems.
 
-## About Laravel
+In this project, we used:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- HTML
+- PHP
+- CSS,javascript
+- bootstrap
+- Laravel
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### we built our web application using Laravel from scratch!
+we also divided, organized and tracked all the tasks while working on the project using Trello!
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Our website have a consistent visual identity throughout, including the logo, theme colors, fonts, and media types, and all of its pages are responsive!
 
-## Learning Laravel
+This project consists of:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Landing Page contains the slider and our services section.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- About us and contact us pages
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Login/Register forms with password hashing techniques.
 
-## Laravel Sponsors
+- Profile page, information about the logged-in user.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- Admin Dashboard for managing (CREATE/ ADD/ UPDATE/ DELETE) the users and the project services.
 
-### Premium Partners
+- donation page which we give the chance for anyone to take this reward.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- we also built our web application based on the master layout methodology!
 
-## Contributing
+In our project The Admin will do all these functionalities :
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    is able to Create Read Update Delete all categories that will appear on the web application with the image provided for each Category.
+    is able to Create Read Update Delete appointments and products, and each appointment is linked to a specific category.
+    is able to view orders for each user (he can't update).
+    is able to manage users' data (Create Read Update Delete) that are registered from the web application.
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In our project The user will do all these functionalities :
+    
+    Users should register to make the appointment.
+    Users can log in to the website.
+    Users have profiles and can edit them.
+    Users can take Products.
+    Users can delete or update their appointment.
+    Users can be able to give a feedback and testimonial.
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Our LINKS :
+1-[Wireframe](https://github.com/HOPE7-Project/Hope7/files/9854806/ilovepdf_merged.pdf)
+
+
+2-https://github.com/HOPE7-Project/Hope7
+
+3-https://trello.com/b/uCrUMNUg/hope7-board
