@@ -1,0 +1,52 @@
+      /*-------------------------------
+Button
+-------------------------------*/
+
+.funButton {
+    background: #13C5DD ;
+    color: #fff;
+    outline: none;
+    border: 2px solid #13C5DD ;
+    border-radius: 4px;
+    padding: 15px 25px;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  
+  .rowButton25 {
+    min-width: 24%;
+  }
+  
+  .rowButton50 {
+    min-width: 49%;
+  }
+  
+  .textFunButton {
+    background: #fff;
+    font-weight: 600;
+    color: #13C5DD ;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  
+  .textFunButton i {
+    font-size: 21px;
+    color: #13C5DD ;
+    margin-right: 7px;
+  }
+   #closeModel{
+    background: red ;
+    color: white;
+    outline: none;
+    border: 2px solid red ;
+    border-radius: 4px;
+    /* font-weight: 600; */
+    font-size: 18px;
+  
+  }
+  .funButton:not(:hover) {
+    background: #fff;
+    color: #13C5DD ;
+  }
